@@ -1,2 +1,2 @@
 # ML_CLASSIFICATION_PROJECT
-Its used to the data of "Iris_flowers" 
+Its used for ml classification datasets
